@@ -3,7 +3,7 @@
 
 Hi there, thanks for stopping by, this is **dumplingbao** from **jinan**.
 
-I usually build cool, interesting websites or tools for fun and for learning using Vue.js and Python, welcome to scroll down to explore [my project](add your link here), maybe you will love them. 😁
+I usually build cool, interesting websites or tools for fun and for learning using Vue/React and Java, welcome to scroll down to explore [my project](add your link here), maybe you will love them. 😁
 
 - 🔭 I’m currently working on...
 - 🌱 I’m currently learning...
